@@ -1,3 +1,3 @@
-FROM openhab/openhab:latest
+FROM openhab/openhab:milestone-debian
 
 HEALTHCHECK NONE
